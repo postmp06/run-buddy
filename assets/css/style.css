@@ -154,6 +154,10 @@ footer div {
     border-color: #39a6b2;
   }
 
+  .trainers {
+    text-align: center;
+  }
+
   .steps div {
       margin-bottom: 80px;
   }
